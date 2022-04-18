@@ -1,0 +1,55 @@
+.cus-logo{
+    color: rgba(0, 0, 0, 0.842);
+}
+.cus-link{
+    color: #666;
+}
+.cus-link:hover{
+    color: rgba(102, 102, 102, 0.315);
+}
+.cus-header{
+    background-color: white;
+}
+body{
+    background-color: whitesmoke;
+}
+.cus-but{
+  
+    border-color: rgba(102, 102, 102, 0.418);
+    min-height: 45px;
+    border-radius: 4px;
+}
+.cus-header{
+    border-top: 2px solid red;
+}
+.cus-but-feed{
+    max-height: 40px;
+    display: flex;
+    
+}
+.cus-but-feed:hover{
+background-color: rgb(60, 44, 155) !important;
+}
+.cus-img{
+   max-width: 300px;
+   height: 90%;
+}
+.cus-col-img{
+   max-height: 500px;
+}
+.cus-icon{
+    font-size: 60px;
+    background:-moz-linear-gradient(top, #e72c83 0%, #a742c6 100%); 
+    background: -webkit-linear-gradient(top, #e72c83 0%,#a742c6 100%); 
+    background: linear-gradient(to bottom, #e72c83 0%,#a742c6 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+   -webkit-text-fill-color:transparent;
+}
+.cus-p{
+    color: #666;
+}
+.cus-h4{
+    font-weight: bold;
+}
